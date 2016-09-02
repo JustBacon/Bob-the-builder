@@ -1,0 +1,27 @@
+header {
+	background-color: blue;
+	color:rgba(255,255,255,0.5);
+}
+		<style>
+h1 {
+	color: red;
+}
+		</style>
+.container {
+	background-color:blue;
+}
+
+#rebar {
+	color:salmon;
+	margin-top: 5000px
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+	background-color: salmon;
+	margin: 5px;
+	border: 0.5px solid black;
+	padding: 20px;
+	float: left;
+}
